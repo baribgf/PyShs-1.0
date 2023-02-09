@@ -1,4 +1,5 @@
-# PyShS v1.0
+PyShS v1.0
+----------
 
 A python module to style strings with multiple features
 
