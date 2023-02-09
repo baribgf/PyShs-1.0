@@ -19,5 +19,5 @@ pip install -r ./requirements.txt
 Install the wheel package:
 
 ```
-pip install "./dist/pyshs-1.0-py3-none-any.whl"
+pip install ./dist/pyshs-1.0-py3-none-any.whl
 ```
