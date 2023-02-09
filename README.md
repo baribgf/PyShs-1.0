@@ -7,7 +7,7 @@ A python module to style strings with multiple features
 Clone the repository:
 
 ```
-git clone repo
+git clone https://github.com/baribgf/pyshs.git
 ```
 
 Install required packages:
